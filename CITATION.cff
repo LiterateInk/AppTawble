@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: AppTawble
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - name: LiterateInk
+    website: "https://literate.ink"
+    email: contact@literate.ink
+  - name: R3dlessX
+    email: r3dlessx@gmail.com
+repository-code: 'https://github.com/LiterateInk/AppTawble'
+abstract: >-
+  A purrfect API wrapper for AppTable.
+keywords:
+  - apptable
+  - elior
+  - wrapper
+  - api
+license: GPL-3.0-or-later
