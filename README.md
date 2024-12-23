@@ -1,4 +1,4 @@
-<img alt="AppTawble: A purrfect API wrapper for AppTable" src=".github/assets/banner.svg" width="100%" />
+<img alt="AppTawble: An awmazing API wrapper for AppTable" src=".github/assets/banner.svg" width="100%" />
 
 *This library **is not** affiliated with [AppTable](https://apptable.elior.com) or [Elior](https://www.elior.fr) in any way.*
 
